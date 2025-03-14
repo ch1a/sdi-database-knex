@@ -1,0 +1,25 @@
+{
+  "name": "sdi-database-knex",
+  "version": "1.0.0",
+  "description": "Connecting to a Database Server with Knex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ch1a/sdi-database-knex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ch1a/sdi-database-knex/issues"
+  },
+  "homepage": "https://github.com/ch1a/sdi-database-knex#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "knex": "^3.1.0",
+    "pg": "^8.14.0"
+  }
+}
